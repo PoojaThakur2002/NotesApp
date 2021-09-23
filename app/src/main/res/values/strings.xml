@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotesTask</string>
+    <string name="mob">Enter Mobile Number</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="name">Enter Full Name</string>
+    <string name="signup">SignUp</string>
+    <string name="tile">Tile</string>
+    <string name="description">Description</string>
+    <string name="note_title">Write Note Title Here</string>
+    <string name="desc">Write Description Here</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="note">Add a note</string>
+    <string name="save">Save</string>
+</resources>
